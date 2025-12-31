@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently studing in Huazhong University of Science and Techonology.
-- 🌱 I’m currently learning machine learning, algorithm, the basic knowledge of computer science and so on.
-- 🤔 I’m looking for help with Automated Detection of Malicious npm Packages
 - 📫 How to reach me: xuehuai.cloud@gmail.com
